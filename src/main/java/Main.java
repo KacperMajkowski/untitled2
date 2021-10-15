@@ -9,6 +9,7 @@ public class Main {
         String bookJson = gson.toJson(book);
 
         System.out.println(bookJson);
+        System.out.println("Test");
 
     }
 }
